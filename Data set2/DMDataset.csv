@@ -1,0 +1,29 @@
+Match_id,Batting_position,Venue_City,Ground,Opposite Team,Pitch,Weather,Avg in last five matches,Avg in last five matches,Fours in last five matches,Fours in last five matches,Sixes in last five matches,Sixes in last five matches,Score in last five matches,Score in last five matches
+1,Right Hand,Karachi,NSK,Australia,Hard,Clear,52.5,Fifty-two point five,18,Eighteen,2,Two,78,Medium Score
+2,Right Hand,Lahore,Gaddafi,Enfgland,Soft,Cloudy,48.2,Forty-eight point two,12,Twelve,1,One,64,Low Score
+3,Right Hand,Delhi,Feroz,India,Dry,Sunny ,45.8,Forty-five point eight,15,Fifteen,3,Three,92,Medium Score
+4,Right Hand,Melbourne,MCG,New Zealand,Hard,Clear,55,Fifty-five,20,Twenty,4,Four,102,High Score
+5,Right Hand,Cape town,Newlands,South Africa,Soft,Rainy,60.3,Sixty point three,33,Thirty-three,5,Five,64,Low Score
+6,Right Hand,Mumbai ,Wankhede,Pakistan,Dry,Clear,57.6,Fifty-seven point six,19,Nineteen,3,Three,98,Medium Score
+7,Right Hand,Sydney,SCG,West Indies,Hard,Sunny ,49.4,Forty-nine point four,13,Thirteen,2,Two,74,Medium Score
+8,Right Hand,Adelaide,Adelaide,SriLanka,Hard,Clear,58.2,Fifty-eight point two,21,Twenty-one,4,Four,110,High Score
+9,Right Hand,Birmingham,Edgbaston,England,Soft,Cloudy,53.7,Fifty-three point seven,17,Seventeen,3,Three,88,Medium Score
+10,Right Hand,Auckland,Eden Park,New Zealand,Soft,Rainy,44.5,Forty-four point five,9,Nine,2,Two,55,Low Score
+11,Right Hand,kollata,Eden ,India,Dry,Sunny ,56.8,Fifty-six point eight,16,Sixteen,3,Three,96,Medium Score
+12,Right Hand,Durban,Kingsmead,South Africa,Soft,Rainy,50,Fifty,4,Four,2,Two,40,Low Score
+13,Right Hand,Wellington,Baisn Res,New Zealand,Soft,Cloudy,47.3,Forty-seven point three,12,Twelve,1,One,70,Low Score
+14,Right Hand,Lahore,Gaddafi,Pakistan,Dry,Clear,59.1,Fifty-nine point one,20,Twenty,4,Four,112,High Score
+15,Right Hand,Colombo,RPS,SriLanka,Hard,Sunny ,54.2,Fifty-four point two,16,Sixteen,3,Three,90,Medium Score
+16,Right Hand,Birmingham,Edgbaston,England,Hard,Cloudy,46.7,Forty-six point seven,14,Fourteen,2,Two,80,Medium Score
+17,Right Hand,Centurion,SuperSport,South Africa,Hard,Clear,51.9,Fifty-one point nine,19,Nineteen,3,Three,96,Medium Score
+18,Right Hand,Dubai,Dubai,Pakistan,Dry,Sunny ,61.4,Sixty-one point four,23,Twenty-three,5,Five,126,High Score
+19,Right Hand,Perth,WACA,Australia,Hard,Clear,55.5,Fifty-five point five,21,Twenty-one,4,Four,108,High Score
+20,Right Hand,Delhi,Feroz,India,Dry,Sunny ,52.6,Fifty-two point six,16,Sixteen,3,Three,94,Medium Score
+21,Right Hand,Christchurch,Hagley,New Zealand,Soft,Rainy,48,Forty-eight,6,Six,2,Two,55,Low Score
+22,Right Hand,Cape town,Newlands,South Africa,Soft,Rainy,46.8,Forty-six point eight,10,Ten,3,Three,62,Low Score
+23,Right Hand,Mumbai ,Wankhede,India,Dry,Clear,53.3,Fifty-three point three,19,Nineteen,4,Four,104,High Score
+24,Right Hand,Sydney,SCG,Australia,Hard,Sunny ,57.2,Fifty-seven point two,22,Twenty-two,5,Five,118,High Score
+25,Right Hand,Johannesburg,Wanderers,South Africa,Hard,Clear,60.7,Sixty point seven,23,Twenty-three,5,Five,130,High Score
+26,Right Hand,Karachi,NSK,West Indies,Hard,Clear,61,Sixty-one,24,Twenty-four,6,Six,140,High Score
+27,Right Hand,Chennai,Chepauk,India,Dry,Sunny ,58.9,Fifty-eight point nine,21,Twenty-one,4,Four,112,High Score
+28,Right Hand,Durban,Kingsmead,SriLanka,Soft,Rainy,52,Fifty-two,8,Eight,4,Four,70,Low Score
